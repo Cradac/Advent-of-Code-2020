@@ -1,6 +1,3 @@
-from typing import Counter
-
-
 i = open("input/day2.txt", "r")
 i = i.read().split('\n')
 
